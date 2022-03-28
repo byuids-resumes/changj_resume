@@ -1,58 +1,47 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Jed Chang's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Jed Chang
+The Software Engineering student in BYU-Idaho.
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="cha19057@byui.edu">cha19057@byui.edu</a>
+| <a href="https://linkedin.com/in/jedchang">Linkedin</a>
+| <a href="https://github.com/Jed0203">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.5 Major GPA
 
 
-## Related Experience
+## Work Experience
 
-### Internships
+`April 2021 - Present`
+__IT Support Technician__, Rexburg, ID
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+- Imaged and deployed computers in offices, classrooms, and other designated areas on campus daily
+- Improved Help Desk workflow by providing methods to fix 100+ Wi-Fi, email accounts, and OS issues weekly
+- Boosted faculty and staff productivity by troubleshooting 3-5 network, software, and hardware incidents daily
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+`January 2020 - April 2021`
+__Rec Facilities-Front Desk Receptionist__, Rexburg, ID
+- Observed 100+ customers’ needs by analyzing behaviors which resulted in 100% customer satisfaction
+- Executed instructions and rules given by managers accurately and punctually, which increased work efficiency and avoided causing any problem 
+- Answered an average of 5 calls per hour by addressing customer inquiries, solving problems, and providing the most updated instruction and information
 
-### Data Science Lead
+`Febuary 2018 - June 2018`
+__Restaurant receptionist__, Taoyuan City, Taiwan
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+- Prepared ingredients for the day in 2 hours to maintain the restaurant open on time daily
+- Solved customer’s problems or questions quickly, which boosted the quality of checking out
+- Packed 80+ lunch boxes in 1.5 hours and sold them out in 1.5 hours on campus
 
 ### Data Science Consulting Team
 
@@ -73,17 +62,17 @@ __Pinnacle Management Group__,
 
 ## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`2019-2020`
+__Chinese Tutor__, BYU-Idaho
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+`2016-2018`
+__Service Missionary__, England
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2022 -->
 
 
