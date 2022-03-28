@@ -43,22 +43,6 @@ __Restaurant receptionist__, Taoyuan City, Taiwan
 - Solved customer’s problems or questions quickly, which boosted the quality of checking out
 - Packed 80+ lunch boxes in 1.5 hours and sold them out in 1.5 hours on campus
 
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
 
 ## Service and Work History
 
