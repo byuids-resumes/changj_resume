@@ -54,10 +54,12 @@ __Chinese Tutor__, BYU-Idaho
 __Service Missionary__, England
 
 ## Side Projects
+
+
 <div id="sideproject">
 <a href="https://github.com/Jed0203/BankAccount">BankAccount</a>
-| <a href="https://github.com/Jed0203/EmailApp">EmailApp</a>
-| <a href="https://github.com/Jed0203/Fighting-of-Space">Fighting of Space</a>
+|<a href="https://github.com/Jed0203/EmailApp">EmailApp</a>
+|<a href="https://github.com/Jed0203/Fighting-of-Space">Fighting of Space</a>
 </div>
 
 
