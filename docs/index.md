@@ -3,7 +3,7 @@ layout: cv
 title: Jed Chang's Resume
 ---
 # Jed Chang
-The Software Engineering student in BYU-Idaho.
+Aspiring Software Engineer
 
 <div id="webaddress">
 <a href="cha19057@byui.edu">cha19057@byui.edu</a>
@@ -18,6 +18,7 @@ The Software Engineering student in BYU-Idaho.
 `Expected 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
 
+- B.S. in Software Engineering with a minor in Data Science
 - 3.5 Major GPA
 
 
@@ -33,7 +34,7 @@ __IT Support Technician__, Rexburg, ID
 `January 2020 - April 2021`
 __Rec Facilities-Front Desk Receptionist__, Rexburg, ID
 - Observed 100+ customers’ needs by analyzing behaviors which resulted in 100% customer satisfaction
-- Executed instructions and rules given by managers accurately and punctually, which increased work efficiency and avoided causing any problem 
+- Executed instructions and rules given by managers accurately and punctually, which increased work efficiency and avoided causing any problems
 - Answered an average of 5 calls per hour by addressing customer inquiries, solving problems, and providing the most updated instruction and information
 
 `Febuary 2018 - June 2018`
